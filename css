@@ -3,22 +3,22 @@ body {
   width: 75%;
   margin: 0 auto;
 }
- 
+
 main {
   background: yellow;
   width: 75%;
 }
- 
+
 aside {
   background: teal;
   width: 25%;
 }
- 
+
 main,
 aside {
   float: left;
 }
- 
+
 footer {
   background: gold;
   padding: 2em;
